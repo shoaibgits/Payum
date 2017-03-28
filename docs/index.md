@@ -5,6 +5,7 @@
     * [Architecture](the-architecture.md)
     * [Storages](storages.md)
     * [Configure gateway in backend](configure-gateway-in-backend.md)
+    * [Encrypt gateway configs stored in database](encrypt-gateway-configs-stored-in-database.md)
     * [Working with sensitive information](working-with-sensitive-information.md)
     * [Mask credit card number](mask-credit-card-number.md)
     * [Instant payment notification](instant-payment-notification.md)
@@ -64,6 +65,7 @@
 
 * ### Sofort  
     * [Get it started](sofort/get-it-started.md)
+    * [Disable notifications](sofort/disable-notifications.md)
     
 * ### Stripe
     * [Stripe.js](stripe/js.md)

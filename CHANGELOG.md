@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.4.0 (2017-03-24)
+
+* [security] Add ability to crypt data stored to database
+* [doc] Fix broken repo url
+
+## 1.3.11 (2017-03-22)
+
+* [klarna][checkout] Fix default uris options are not set correctly to config obj.
+* [doc] Fix scripts links
+* [doc] Fix config include, when create a capture url
+* [doc] Correct description for catchReply argument.
+* code style fixes
+
 ## 1.3.10 (2017-02-03)
 
 * [bridge][symfony] Allow choices to be defined as callbacks.
